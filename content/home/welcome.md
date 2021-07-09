@@ -16,4 +16,4 @@ advanced:
   css_style:
   css_class:
 ---
-The Cryptography and Information Security (CIS) group seeks to develop techniques for securing tomorrow's global information infrastructure by exploring theoretical foundations, near-term practical applications, and long-range speculative research. We aim to understand the theoretical power of cryptography and the practical engineering of secure information systems, from appropriate definitions and proofs of security, through cryptographic algorithm and protocol design, to implementations of real applications with easy-to-use security features. We are also interested in the relationship of our field to others, such as complexity theory, quantum computing, algorithms, machine learning, and cryptographic policy debates.
+The Cryptography and Information Security (CIS) group seeks to develop techniques for securing tomorrow's global information infrastructure by exploring theoretical foundations, near-term practical applications, and long-range speculative research. 
