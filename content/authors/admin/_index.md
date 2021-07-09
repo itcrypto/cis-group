@@ -8,6 +8,8 @@ superuser: true
 # Role/position
 role: Professor of Artificial Intelligence
 
+user_groups: Principal Investigator
+
 # Organizations/Affiliations
 organizations:
 - name: Stanford University
