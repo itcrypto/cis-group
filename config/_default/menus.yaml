@@ -17,6 +17,9 @@ main:
     url: courses 
     weight: 40
   - name: Publications
+    url: publications
+    weight: 50
+  - name: Research Projects
     url: publication
     weight: 50
   - name: Contact
